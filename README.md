@@ -1,0 +1,2 @@
+# MIS-Unversity
+ وصف المشروعthis project is Management information system for university by using  #C , SQLServer 2014 Manage many Modules as - (Registration each person on system like(Students,Student Affairs,Management,Controls -Registration All Students and give them ID -Registration All Materials For Students and Prequist Materials - Manage all Operations All Students from Add ,Delete Enquiry,etc -Prints Reports about Students with sheets with all Data also degrees
